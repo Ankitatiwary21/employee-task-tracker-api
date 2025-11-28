@@ -1,6 +1,18 @@
 # 🚀 Employee Task Tracker API
+## 🌐 Live Demo
+
+**API Base URL:** https://employee-task-tracker-api.onrender.com
+
+### Try Live Endpoints:
+- [Welcome](https://employee-task-tracker-api.onrender.com/)
+- [All Employees](https://employee-task-tracker-api.onrender.com/api/employees)
+- [All Tasks](https://employee-task-tracker-api.onrender.com/api/tasks)
+- [Task Statistics](https://employee-task-tracker-api.onrender.com/api/tasks/statistics)
+- [Completed Tasks](https://employee-task-tracker-api.onrender.com/api/tasks?status=Completed)
+
 
 A RESTful API for managing employees and their tasks. Built with Node.js, Express, and SQLite.
+
 
 ## 📋 Table of Contents
 
