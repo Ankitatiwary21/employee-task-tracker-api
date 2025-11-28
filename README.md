@@ -386,3 +386,23 @@ node_modules/
 .env
 database/*.db
 .DS_Store
+
+## 🧪 Testing with Postman
+
+A Postman collection is included in this repository: `PRO_U.postman_collection.json`
+
+### How to import:
+1. Open Postman
+2. Click **Import** button
+3. Select the `PRO_U.postman_collection.json` file
+4. All API requests will be loaded
+
+### Included Requests:
+- GET All Employees
+- POST Create Employee
+- GET All Tasks
+- GET Tasks by Status
+- GET Task Statistics
+- POST Create Task
+- PUT Update Task
+- DELETE Task
